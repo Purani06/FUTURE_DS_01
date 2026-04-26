@@ -50,5 +50,4 @@ This project demonstrates how data analysis can transform raw sales data into me
 ## 👩‍💻 Author
 
 Annapurani S D
-Data Science Intern – Future Interns
-
+(Data Science Intern – Future Interns)
