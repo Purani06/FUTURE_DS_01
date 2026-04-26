@@ -33,8 +33,7 @@ Data Collection → Data Cleaning → Exploratory Data Analysis → Visualizatio
 * 📁 Report → SUPERSTORE_PROJECT_REPORT.pdf
 
 ## 🔹 Dashboard
-
-(Add your dashboard screenshot here)
+https://github.com/Purani06/FUTURE_DS_01/raw/main/dashboard.png
 
 ## 🔹 Business Recommendations
 
